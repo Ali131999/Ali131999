@@ -6,6 +6,18 @@ I build Flutter applications for client projects and personal portfolios, with a
 
 **Currently open to Flutter Developer opportunities.**
 
+## Professional experience
+
+### Propai CRM — Flutter Application
+
+Contributed to an existing company-owned Flutter application as part of the development team.
+
+- Improved existing features and implemented additional functionality.
+- Refined the user experience across application workflows.
+- Published application updates to the Apple App Store and Google Play.
+
+*Company-owned application; source code is not hosted on my personal GitHub.*
+
 ## Client applications
 
 ### مع السفرة — Quran Learning & Administration
