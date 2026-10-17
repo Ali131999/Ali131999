@@ -10,7 +10,9 @@ I build Flutter applications for client projects and personal portfolios, with a
 
 ### rockAi dev · Flutter Developer
 
-**Propai CRM** — A mobile CRM application for real estate teams.
+<h3><img src="assets/logos/propai.png" width="56" height="56" align="center" alt="Propai CRM logo"> Propai CRM</h3>
+
+A mobile CRM application for real estate teams.
 
 Contributed to the existing company-owned Flutter application as part of the development team.
 
@@ -24,7 +26,7 @@ Contributed to the existing company-owned Flutter application as part of the dev
 
 ## Client applications
 
-### مع السفرة — Quran Learning & Administration
+<h3><img src="assets/logos/m3-elsafra.png" width="56" height="56" align="center" alt="مع السفرة logo"> مع السفرة — Quran Learning &amp; Administration</h3>
 
 A Flutter application for Quran learning workflows, with student and administrator interfaces.
 
@@ -35,7 +37,7 @@ A Flutter application for Quran learning workflows, with student and administrat
 
 **Engineering:** Bloc/Cubit, layered feature structure, domain use cases, Dio/Retrofit, GetIt/Injectable, and secure storage utilities.
 
-### Dr Bakes — Bakery Operations
+<h3><img src="assets/logos/dr-bakes.png" width="56" height="56" align="center" alt="Dr Bakes logo"> Dr Bakes — Bakery Operations</h3>
 
 A Flutter application for managing bakery operations, including customers, products, orders, and stock.
 
