@@ -26,7 +26,7 @@ Contributed to the existing company-owned Flutter application as part of the dev
 
 ## Client applications
 
-<h3><img src="https://raw.githubusercontent.com/Ali131999/Ali131999/main/assets/logos/m3-elsafra.png?v=6eb308796a40" width="56" height="56" align="center" alt="مع السفرة logo"> مع السفرة — Quran Learning &amp; Administration</h3>
+<h3><img src="assets/logos/m3-elsafra-complete.png" width="56" height="56" align="center" alt="مع السفرة logo"> مع السفرة — Quran Learning &amp; Administration</h3>
 
 A Flutter application for Quran learning workflows, with student and administrator interfaces.
 
@@ -37,7 +37,7 @@ A Flutter application for Quran learning workflows, with student and administrat
 
 **Engineering:** Bloc/Cubit, layered feature structure, domain use cases, Dio/Retrofit, GetIt/Injectable, and secure storage utilities.
 
-<h3><img src="https://raw.githubusercontent.com/Ali131999/Ali131999/main/assets/logos/dr-bakes.png?v=b9bf6e9602c9" width="56" height="56" align="center" alt="Dr Bakes logo"> Dr Bakes — Bakery Operations</h3>
+<h3><img src="assets/logos/dr-bakes-complete.png" width="56" height="56" align="center" alt="Dr Bakes logo"> Dr Bakes — Bakery Operations</h3>
 
 A Flutter application for managing bakery operations, including customers, products, orders, and stock.
 
