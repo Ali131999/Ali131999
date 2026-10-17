@@ -6,9 +6,31 @@ I build Flutter applications for client projects and personal portfolios, with a
 
 **Currently open to Flutter Developer opportunities.**
 
-## Client work
+## Client applications
 
-Alongside my public portfolio, I have worked on Flutter applications for real clients. Client source code remains private.
+### مع السفرة — Quran Learning & Administration
+
+A Flutter application for Quran learning workflows, with student and administrator interfaces.
+
+- Daily Quran progress tracking, study plans, and Tajweed lessons.
+- QR attendance check-in and administrative attendance workflows.
+- Account transactions, feedback, and user management screens.
+- Arabic/English localization and scheduled local reminders.
+
+**Engineering:** Bloc/Cubit, layered feature structure, domain use cases, Dio/Retrofit, GetIt/Injectable, and secure storage utilities.
+
+### Dr Bakes — Bakery Operations
+
+A Flutter application for managing bakery operations, including customers, products, orders, and stock.
+
+- Product menu with cost and selling prices.
+- Customer and order management, including quantities and delivery details.
+- Stock and fridge tracking, profit summaries, and monthly archives.
+- Hive local persistence, Google sign-in through Firebase Authentication, and Firestore backup/restore workflows.
+
+**Engineering:** Typed local data models, Hive adapters, separated authentication and backup services, and reusable Flutter UI.
+
+*Source code for these client applications is private.*
 
 ## Featured public projects
 
@@ -34,7 +56,8 @@ A category-based news app that loads sources and headlines from NewsAPI and supp
 | --- | --- |
 | Flutter, Dart, reusable widgets | REST APIs, Dio, Retrofit, HTTP |
 | Bloc / Cubit | Repository contracts and domain use cases |
-| ScreenUtil | GetIt, Injectable, JSON Serializable |
+| ScreenUtil, Arabic/English localization | GetIt, Injectable, JSON Serializable |
+| QR scanning, local notifications | Hive, Firebase Authentication, Cloud Firestore |
 
 ## What I'm looking for
 
