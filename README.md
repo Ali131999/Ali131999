@@ -8,13 +8,17 @@ I build Flutter applications for client projects and personal portfolios, with a
 
 ## Professional experience
 
-### Propai CRM — Flutter Application
+### rockAi dev · Flutter Developer
 
-Contributed to an existing company-owned Flutter application as part of the development team.
+**Propai CRM** — A mobile CRM application for real estate teams.
+
+Contributed to the existing company-owned Flutter application as part of the development team.
 
 - Improved existing features and implemented additional functionality.
 - Refined the user experience across application workflows.
 - Published application updates to the Apple App Store and Google Play.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.rocakaidev.crm_mobile_app) · [App Store](https://apps.apple.com/eg/app/propai-crm/id6756882855)
 
 *Company-owned application; source code is not hosted on my personal GitHub.*
 
