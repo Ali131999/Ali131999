@@ -4,9 +4,24 @@
 
 I build Flutter applications for client projects and personal portfolios, with a focus on practical workflows, REST API integration, and structured application code.
 
-**Currently open to Flutter Developer opportunities.**
-
 ## Professional experience
+
+### AMAMI · Flutter Developer
+
+<h3><img src="assets/logos/smix.png" width="56" height="56" align="center" alt="SMIX logo"> SMIX — Multi-vendor E-commerce</h3>
+
+A Flutter customer app for Android and iOS where shoppers buy from multiple merchants in Saudi Arabia.
+
+- Refactored the app to Clean Architecture (View → Cubit → Use case → Repository), with automated tests that enforce the layer boundaries.
+- Built checkout with DigetPay online payment and cash on delivery, including payment return, payment retry, and duplicate-order protection.
+- Added app links for product sharing and payment return, push notifications, and forced/optional app updates.
+- Added crash reporting that excludes customer data, and CI that runs analysis and tests on every push.
+- Arabic/English, light/dark themes, and responsive layouts for phones and tablets.
+- Preparing the first Google Play release.
+
+**Engineering:** Cubit, Retrofit/Dio, Firebase (Messaging, Crashlytics), App Links, GitHub Actions.
+
+*Company-owned application; source code is not hosted on my personal GitHub.*
 
 ### rockAi dev · Flutter Developer
 
@@ -76,7 +91,3 @@ A category-based news app that loads sources and headlines from NewsAPI and supp
 | Bloc / Cubit | Repository contracts and domain use cases |
 | ScreenUtil, Arabic/English localization | GetIt, Injectable, JSON Serializable |
 | QR scanning, local notifications | Hive, Firebase Authentication, Cloud Firestore |
-
-## What I'm looking for
-
-A Flutter role where I can contribute to mobile products, collaborate with a development team, and continue improving application architecture and software quality.
