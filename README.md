@@ -1,4 +1,4 @@
-# Hi, I'm Ali Mohamed 👋
+# Hi, I'm Ali Mohamed 
 
 ### Flutter Developer · Dart · Mobile Applications
 
